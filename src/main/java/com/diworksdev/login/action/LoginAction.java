@@ -29,7 +29,7 @@ public class LoginAction extends ActionSupport{
 				
 			}
 			
-	}
+}
 			
 			return ret;
 			
@@ -59,4 +59,4 @@ public class LoginAction extends ActionSupport{
 			
 		}
 		
-}
+	}
