@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncodeing="utf-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="utf-8" %>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@
 		<s:textfield name="name"/>
 		<s:password name="password"/>
 		<s:submit value="ログイン"/>
-	</form>
+	</s:form>
 </body>
 
 </html>

@@ -26,7 +26,7 @@ public class DBConnector {
 		
 		e.printStackTrace();
 		
-	}catch (SQLException e) {
+	} catch (SQLException e) {
 		
 		e.printStackTrace();
 		
